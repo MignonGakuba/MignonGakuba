@@ -10,8 +10,10 @@
 
 
 ### Find me on 
-[![LinkedIn](https://raw.githubusercontent.com/mignongakuba/mignongakuba/master/soc/li.svg)](https://www.linkedin.com/in/mignongakuba/) 
-### Connect with me:
+
+[![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://uk.linkedin.com/in/mignongakuba/) 
+
+[![YouTube](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/yt.svg)](https://youtube.com/mignongakuba)
 
 ### Languages and Tools:
 ReactjS
