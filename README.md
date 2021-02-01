@@ -3,7 +3,7 @@
 
 ### I'm a student at Fontys University of Applied Sciences in Tilburg! and currently working at CloudAdvies
 
-### Working to become a Fullstack developer, but specializes in back-end development Java / C#  . Front-end development (HTML, CSS, JavaScript/TypeScript) and front-end frameworks (Angular & React)
+#### Working to become a Fullstack developer, but specializes in back-end development Java / C#  . Front-end development (HTML, CSS, JavaScript/TypeScript) and front-end frameworks (Angular & React)
 
 <br/>
 
