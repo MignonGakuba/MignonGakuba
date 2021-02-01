@@ -13,6 +13,7 @@
   - 🌲 On the weekends I like to go for a run and play basketball. I am hardcore weeb :) 
 
 [![Codewars](https://www.codewars.com/users/Mignon%20Gakuba/badges/large)
+
 ### Find me on:
 
 <p align="center">
