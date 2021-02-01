@@ -12,7 +12,7 @@
   - 🎮 I also like to play games like: Apex Legends, Dark Souls 3, Among us and many more. Furthermore I like to play chess 
   - 🌲 On the weekends I like to go for a run and play basketball. I am hardcore weeb :) 
 
-[![Codewars](https://www.codewars.com/users/Mignon%20Gakuba/badges/large)
+![Codewars](https://www.codewars.com/users/Mignon%20Gakuba/badges/large)
 
 ### Find me on:
 
