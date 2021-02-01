@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there, I'm Mignon Gakuba. 👋 I'm a student at Fontys Hogeschool in Tilburg!
 
 ### -----------------------------------------------------------------------------------------------------
   - 🏫 Currently doing my minor in open learning.  At 8 feb  I will start my final intership at Crossyn.
