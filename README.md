@@ -1,7 +1,7 @@
-## Hi there, I'm Mignon Gakuba. 👋  
+## Hi there, I'm Mignon Gakuba. 👋  🇷🇼 🇳🇱
 [![Github](https://img.shields.io/github/followers/MignonGakuba?label=Follow&style=social)](https://github.com/MignonGakuba) ![](https://visitor-badge.laobi.icu/badge?page_id=MignonGakuba.MignonGakuba)
 
-### I'm a student at Fontys University of Applied Sciences in Tilburg 🇳🇱 and currently working at CloudAdvies!
+### I'm a student at Fontys University of Applied Sciences in Tilburg and currently working at CloudAdvies!
 #### Working to become a Fullstack developer, but specializes in back-end development Java / C#  . Front-end development (HTML, CSS, JavaScript/TypeScript) and front-end frameworks (Angular & React)
 
 <br/>
@@ -33,6 +33,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C sharp" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/intellij/intellij.png" alt="intellij" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <br />
