@@ -14,9 +14,9 @@ Working to become a Fullstack developer, but specializes in back-end development
 
 ### Find me on 
 
-[![LinkedIn](https://raw.githubusercontent.com/mignongakuba/praveenscience/master/soc/li.svg)](https://www.linkedin.com/in/mignon-gakuba-700247180/) 
+[![LinkedIn](https://raw.githubusercontent.com/mignongakuba/mignongakuba/master/soc/li.svg)](https://www.linkedin.com/in/mignon-gakuba-700247180/) 
 
-[![YouTube](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/yt.svg)](https://www.youtube.com/channel/UCgC5yEhIxRPiOxiNa20el2A)
+[![YouTube](https://raw.githubusercontent.com/mignongakuba/mignongakuba/master/soc/yt.svg)](https://www.youtube.com/channel/UCgC5yEhIxRPiOxiNa20el2A)
 
 ### Languages and Tools:
 ReactjS
