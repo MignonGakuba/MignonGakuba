@@ -22,8 +22,7 @@ Working to become a Fullstack developer, but specializes in back-end development
 ReactjS
 
 ### My Github Stats:
-![MignonGakuba  GitHub stats](https://github-readme-stats.vercel.app/api?username=mignongakuba&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MignonGakuba&theme=dark&show_icons=true)
+![MignonGakuba  GitHub stats](https://github-readme-stats.vercel.app/api?username=mignongakuba&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MignonGakuba&theme=dark&show_icons=true)
 
 
 
