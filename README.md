@@ -1,4 +1,5 @@
 ## Hi there, I'm Mignon Gakuba. 👋 
+[![Github](https://img.shields.io/github/followers/MignonGakuba?label=Follow&style=social)](https://github.com/MignonGakuba)
 
 ### I'm a student at Fontys Hogeschool in Tilburg! and currently working at CloudAdvies
 
