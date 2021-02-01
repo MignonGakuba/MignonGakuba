@@ -10,7 +10,7 @@
 
 
 ### Find me on 
-[![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://uk.linkedin.com/in/mignongakuba/) 
+[![LinkedIn](https://www.linkedin.com/in/mignongakuba/) 
 ### Connect with me:
 
 ### Languages and Tools:
