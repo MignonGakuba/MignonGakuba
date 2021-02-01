@@ -12,7 +12,7 @@
   - 🎮 I also like to play games like: Apex Legends, Dark Souls 3, Among us and many more. Furthermore I like to play chess 
   - 🌲 On the weekends I like to go for a run and play basketball. I am hardcore weeb :) 
 
- <g-emoji class="g-emoji" alias="netherlands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f7-1f1fc.png?v8"></g-emoji>
+ <g-emoji class="g-emoji" alias="netherlands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f7-1f1fc.png?v8">Rwwada</g-emoji>
 
 ### Find me on:
 
