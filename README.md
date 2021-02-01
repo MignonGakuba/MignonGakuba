@@ -1,7 +1,10 @@
 ## Hi there, I'm Mignon Gakuba. 👋 
 [![Github](https://img.shields.io/github/followers/MignonGakuba?label=Follow&style=social)](https://github.com/MignonGakuba) ![](https://visitor-badge.laobi.icu/badge?page_id=MignonGakuba.MignonGakuba)
 
-### I'm a student at Fontys Hogeschool in Tilburg! and currently working at CloudAdvies
+### I'm a student at Fontys University of Applied Sciences in Tilburg! and currently working at CloudAdvies
+
+Working to become a Fullstack developer, but specializes in back-end development Java / C#  . Front-end development (HTML, CSS, JavaScript/TypeScript) and front-end frameworks (Angular & React)
+
 
   - 🏫 Currently doing my minor in open learning.  At 8 feb  I will start my final intership at Crossyn.
   - 📚 I'm currently training my solving problems. And Starting with a new Web App with Reactjs buidling with microservices cointaners Java ,Javascript Docker, Spring CI/CD.
