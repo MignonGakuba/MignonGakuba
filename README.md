@@ -9,18 +9,12 @@
   - 🌲 On the weekends I like to go for a run and play basketball. I am hardcore weeb :)
 
 
-
 ### Find me on 
-
 
 ### Connect with me:
 
-
-
 ### Languages and Tools:
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MignonGakuba&theme=tokyonight)
 
 ### My Github Stats:
 ![MignonGakuba  GitHub stats](https://github-readme-stats.vercel.app/api?username=mignongakuba&theme=dark&show_icons=true)
