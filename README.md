@@ -1,7 +1,7 @@
 ## Hi there, I'm Mignon Gakuba. 👋  
 [![Github](https://img.shields.io/github/followers/MignonGakuba?label=Follow&style=social)](https://github.com/MignonGakuba) ![](https://visitor-badge.laobi.icu/badge?page_id=MignonGakuba.MignonGakuba)
 
-### I'm a student at Fontys University of Applied Sciences in Tilburg <g-emoji class="g-emoji" alias="netherlands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f3-1f1f1.png">🇳🇱</g-emoji> and currently working at CloudAdvies!
+### I'm a student at Fontys University of Applied Sciences in Tilburg 🇳🇱 and currently working at CloudAdvies!
 #### Working to become a Fullstack developer, but specializes in back-end development Java / C#  . Front-end development (HTML, CSS, JavaScript/TypeScript) and front-end frameworks (Angular & React)
 
 <br/>
@@ -12,7 +12,6 @@
   - 🎮 I also like to play games like: Apex Legends, Dark Souls 3, Among us and many more. Furthermore I like to play chess 
   - 🌲 On the weekends I like to go for a run and play basketball. I am hardcore weeb :) 
 
- <g-emoji class="g-emoji" alias="netherlands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1f7-1f1fc.png?v8">Rwwada</g-emoji>
 
 ### Find me on:
 
