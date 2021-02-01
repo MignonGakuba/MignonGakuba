@@ -1,4 +1,4 @@
-## Hi there, I'm Mignon Gakuba. 👋 
+## Hi there, I'm Mignon Gakuba. 👋  
 [![Github](https://img.shields.io/github/followers/MignonGakuba?label=Follow&style=social)](https://github.com/MignonGakuba) ![](https://visitor-badge.laobi.icu/badge?page_id=MignonGakuba.MignonGakuba)
 
 ### I'm a student at Fontys University of Applied Sciences in Tilburg! and currently working at CloudAdvies
@@ -9,8 +9,8 @@ Working to become a Fullstack developer, but specializes in back-end development
   - 🏫 Currently doing my minor in open learning.  At 8 feb  I will start my final intership at Crossyn.
   - 📚 I'm currently training my solving problems. And Starting with a new Web App with Reactjs buidling with microservices cointaners Java ,Javascript Docker, Spring CI/CD.
   Moreover I will start with python course, WHY NOT XD
-  - 🎮 I also like to play games like: Apex Legends, Dark Souls 3, Among us and many more!.
-  - 🌲 On the weekends I like to go for a run and play basketball. I am hardcore weeb :)
+  - 🎮 I also like to play games like: Apex Legends, Dark Souls 3, Among us and many more. Furthermore I like to play chess 
+  - 🌲 On the weekends I like to go for a run and play basketball. I am hardcore weeb :) 
 
 
 ### Find me on:
@@ -31,6 +31,8 @@ Working to become a Fullstack developer, but specializes in back-end development
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="C sharp" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 </p>
 <br />
 
