@@ -3,8 +3,9 @@
 
 ### I'm a student at Fontys University of Applied Sciences in Tilburg! and currently working at CloudAdvies
 
-Working to become a Fullstack developer, but specializes in back-end development Java / C#  . Front-end development (HTML, CSS, JavaScript/TypeScript) and front-end frameworks (Angular & React)
+### Working to become a Fullstack developer, but specializes in back-end development Java / C#  . Front-end development (HTML, CSS, JavaScript/TypeScript) and front-end frameworks (Angular & React)
 
+<br/>
 
   - 🏫 Currently doing my minor in open learning.  At 8 feb  I will start my final intership at Crossyn.
   - 📚 I'm currently training my solving problems. And Starting with a new Web App with Reactjs buidling with microservices cointaners Java ,Javascript Docker, Spring CI/CD.
@@ -34,11 +35,11 @@ Working to become a Fullstack developer, but specializes in back-end development
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 </p>
+
 <br />
 
 ### My Github Stats:
 ![MignonGakuba  GitHub stats](https://github-readme-stats.vercel.app/api?username=mignongakuba&theme=dark&show_icons=true) 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MignonGakuba&theme=dark&show_icons=true)
 
 <br />
