@@ -2,7 +2,7 @@
 [![Github](https://img.shields.io/github/followers/MignonGakuba?label=Follow&style=social)](https://github.com/MignonGakuba) ![](https://visitor-badge.laobi.icu/badge?page_id=MignonGakuba.MignonGakuba)
 
 ### I'm a student at Fontys University of Applied Sciences in Tilburg
-#### Working to become a Fullstack developer, but specializes in back-end development Java / C#  . Front-end development (HTML, CSS, JavaScript/TypeScript) and front-end frameworks (Angular & React)
+#### Working to become a Fullstack developer, but specializes in back-end development Java. Front-end development (HTML, CSS, JavaScript/TypeScript) and front-end frameworks (Angular & React)
 
 <br/>
 
