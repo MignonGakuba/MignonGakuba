@@ -42,7 +42,7 @@
 
 ### My Github Stats:
 ![MignonGakuba  GitHub stats](https://github-readme-stats.vercel.app/api?username=mignongakuba&theme=dark&show_icons=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MignonGakuba&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MignonGakuba&theme=dark&show_icons=false)
 
 <br />
 
